@@ -8,7 +8,7 @@ import string
 
 import asyncio
 import time
-token='ODUzMjQzMTEyOTY0MzU4MTg1.YMW9TA.rJKELMinJwciNxQfopZSY_eGatw'
+token='ODUzMjQzMTEyOTY0MzU4MTg1.YMW_RQ.vAjiEhhB7L-RTFEGWQbODXhiLbs'
 prefix = "op"
 bot = commands.Bot(command_prefix=prefix)
 bot.remove_command('help')
